@@ -17,6 +17,11 @@ It will start as an implementation of the Monkey interpreter as per the book, an
 - an array data structure
 - a hash data structure
 
+<!--
+### To Do
+- Change token type to int/byte
+- Add line/byte numbers
+-->
 
 ## License
 Licensed under an [MIT License](LICENSE)
