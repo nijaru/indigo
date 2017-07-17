@@ -19,8 +19,11 @@ It will start as an implementation of the Monkey interpreter as per the book, an
 
 <!--
 ### To Do
-- Change token type to int/byte
-- Add line/byte numbers
+- token:
+    - Change token type to int/byte
+    - Add line/byte numbers
+- lexer:
+    - change ch type from byte to rune
 -->
 
 ## License
