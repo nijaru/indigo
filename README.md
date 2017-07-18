@@ -24,6 +24,7 @@ It will start as an implementation of the Monkey interpreter as per the book, an
     - Add line/byte numbers
 - lexer:
     - change ch type from byte to rune
+    - allow more than just integers
 -->
 
 ## License
